@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "mkdir welcome/to/holberton "
+mkdir welcome/to/holberton 
