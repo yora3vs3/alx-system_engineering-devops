@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ""
+echo "ln -s /bin/ls _ls_  "
