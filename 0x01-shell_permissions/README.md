@@ -26,7 +26,7 @@ Exercise 12: mkdir -m 751 my_dir Create a directory called my_dir with permissio
 
 Exercise 13: chgrp school hello Change gorup owner to school for the file hello
 
-Exercise 14: chown vincent:staff * Change owner to betty and the group owner to staff for all files and directories in current directory.
+Exercise 14: chown vincent:staff * Change owner to vincent and the group owner to staff for all files and directories in current directory.
 
 Exercise 15: chown -h vincent:staff _hello Changes the owner and group owner of file _hello to vincent and staff respectively.
 
