@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d C | try -d c
+tr -d 'cC'
