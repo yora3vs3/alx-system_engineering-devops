@@ -28,3 +28,4 @@ If no subdomain parameter is passed, displays information about the subdomains w
 3. No loophole in your website traffic
 
 100-redirect_http_to_https: HAproxy configuration file that automatically redirects HTTP traffic to HTTPS.
+qwe
