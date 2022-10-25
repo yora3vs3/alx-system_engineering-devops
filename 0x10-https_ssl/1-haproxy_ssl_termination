@@ -56,4 +56,3 @@ backend web-backend
         redirect scheme https if !{ ssl_fc }
         server 28056-web-02 3.238.204.225:80 check
         server 28056-web-02 3.238.248.146:80 check
-		
